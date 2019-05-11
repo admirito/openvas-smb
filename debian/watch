@@ -1,0 +1,5 @@
+version=3
+
+opts=uversionmangle=s/\.beta/~beta/ \
+https://github.com/greenbone/openvas-smb/releases  \
+        /greenbone/openvas-smb/archive/v(.*)\.tar\.gz
