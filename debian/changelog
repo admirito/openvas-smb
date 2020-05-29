@@ -1,3 +1,9 @@
+openvas-smb (1.0.5-2) focal; urgency=medium
+
+  * Rebuild the same version for Ubuntu 20.04
+
+ -- Mohammad Razavi <mrazavi64@gmail.com>  Fri, 29 May 2020 13:54:40 +0430
+
 openvas-smb (1.0.5-1) bionic; urgency=medium
 
   * Initial release
