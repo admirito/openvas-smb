@@ -2,8 +2,8 @@ Source: openvas-smb
 Section: admin
 Priority: optional
 Maintainer: Mohammad Razavi <mrazavi64@gmail.com>
-Build-Depends: debhelper (>= 10), cmake, pkg-config, gcc-mingw-w64, libgnutls28-dev, heimdal-dev, libpopt-dev, libglib2.0-dev
-Standards-Version: 4.1.2
+Build-Depends: debhelper-compat (= 12), cmake, pkg-config, gcc-mingw-w64, libgnutls28-dev, heimdal-dev, libpopt-dev, libglib2.0-dev, libunistring-dev
+Standards-Version: 4.4.1
 Homepage: https://community.greenbone.net/
 Vcs-Git: https://github.com/admirito/openvas-smb.git
 Vcs-Browser: https://github.com/admirito/openvas-smb
